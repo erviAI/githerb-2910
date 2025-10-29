@@ -14,7 +14,17 @@ herbs_json = """
                 { "id": 7, "name": "Cilantro" },
                 { "id": 8, "name": "Dill" },
                 { "id": 9, "name": "Oregano" },
-                { "id": 10, "name": "Chives" }
+                { "id": 10, "name": "Chives" },
+                { "id": 11, "name": "Tarragon" },
+                { "id": 12, "name": "Lavender" },
+                { "id": 13, "name": "Marjoram" },
+                { "id": 14, "name": "Chamomile" },
+                { "id": 15, "name": "Fennel" },
+                { "id": 16, "name": "Bay Leaf" },
+                { "id": 17, "name": "Lemongrass" },
+                { "id": 18, "name": "Savory" },
+                { "id": 19, "name": "Sorrel" },
+                { "id": 20, "name": "Chervil" }
             ]
             """
 
