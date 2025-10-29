@@ -1,0 +1,6 @@
+@githerb_HostAddress = http://localhost:8000
+
+GET {{githerb_HostAddress}}/herbs/
+Accept: application/json
+
+###
